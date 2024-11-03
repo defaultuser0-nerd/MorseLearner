@@ -1,0 +1,12 @@
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\bin\Debug\LearnMorse.exe.config
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\bin\Debug\LearnMorse.exe
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\bin\Debug\LearnMorse.pdb
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\obj\Debug\LearnMorse.csproj.AssemblyReference.cache
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\obj\Debug\LearnMorse.Properties.Resources.resources
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\obj\Debug\LearnMorse.csproj.GenerateResource.cache
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\obj\Debug\LearnMorse.csproj.CoreCompileInputs.cache
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\obj\Debug\LearnMorse.exe
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\obj\Debug\LearnMorse.pdb
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\obj\Debug\LearnMorse.TranslateForm.resources
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\obj\Debug\LearnMorse.GameForm.resources
+C:\Users\rgerm\source\repos\LearnMorse\LearnMorse\obj\Debug\LearnMorse.LearnMorse.resources
