@@ -1,4 +1,4 @@
-# forked so i can make of cody
+# forked so i can make fun of cody
 # MorseLearner
 ## 🚀 **Morse Code Mastery - Your Ultimate Learning Companion!** 🥳
 
